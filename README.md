@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chethana-16
 - 👀 I’m interested in data science and data analytics
-- 🌱 I’m currently learning computer science engineering
+- 🌱 I’m currently persuing Masters in Data Science
 - 💞️ I’m looking to collaborate on data science or data analytics related projects
 - 📫 How to reach me mail:chethana1681@gmail.com
 
